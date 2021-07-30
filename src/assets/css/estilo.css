@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: blanchedalmond;
+    color: black;
+}#pagina {
+    width: 960px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    overflow: hidden;
+}#pagina h1{
+    text-align: center;
+}#pagina button{
+    background-color: cornsilk;
+    border-radius: 20px;
+    color: black;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 8px;
+}#pagina table{
+    width: 100%;
+    border: 1px solid black;
+    background: rgb(114, 203, 206);
+    color: black;
+
+}#pagina th,td{
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid black;
+    border-spacing: 0px;
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+}
+
+script{
+    background-color: blanchedalmond;
+    color: black;
+}
+script button{
+    background-color: cornsilk;
+    border-radius: 20px;
+    color: black;
+}
